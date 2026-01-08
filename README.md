@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Jose Sanchez
-
+<a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 I'm an aspiring IT and Cybersecurity professional with hands-on experience in system administration, endpoint security, and technical support. I love learning and applying new skills in real-world scenarios, whether it's through home labs, cloud projects, or cybersecurity challenges.  
 
 ---
