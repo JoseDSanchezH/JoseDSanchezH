@@ -22,7 +22,7 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 - **Cybersecurity & IT Tools:** Wireshark, Nmap, UFW, Hybrid Analysis, VirusTotal, PDQ Deploy/Inventory  
 - **System Administration:** Active Directory, RSAT, Group Policy  
 - **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate  
-
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ---
 
 ## 🚀 What I'm Working On
