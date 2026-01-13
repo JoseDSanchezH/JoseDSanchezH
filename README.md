@@ -4,11 +4,16 @@
 I'm an aspiring IT and Cybersecurity professional with hands-on experience in system administration, endpoint security, and technical support. I love learning and applying new skills in real-world scenarios, whether it's through home labs, cloud projects, or cybersecurity challenges.  
 
 ---
+## Skills
 
-## 🧑‍💻 Who Am I
-- Passionate about IT, cybersecurity, and continuous learning  
-- Advocate for mental health and inclusive environments  
-- Background in HR, IT support, and project-based technical experience  
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Scripting and Automation for Threat Mitigation     | <a href="https://github.com/JoseDSanchezH/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation</a>|
+| Azure Virtual Network | Designing Subnets, Security Groups, and DNS Zones | <a href="https://github.com/JoseDSanchezH/Azure-Virtual-Network-Designing-Subnets-Security-Groups-and-DNS-Zones">Azure Virtual Network | Designing Subnets, Security Groups, and DNS Zones</a>|
+| Securing Azure with RBAC Least Privilege | <a href="https://github.com/JoseDSanchezH/Securing-Azure-with-RBAC-Least-Privilege">Securing Azure with RBAC Least Privilege</a>|
+| Azure VM User Account Setup | <a href="https://github.com/JoseDSanchezH/Azure-VM-User-Account-Setup">Azure VM User Account Setup</a>|
+| Securing and Managing Data in Azure Storage | <a href="https://github.com/JoseDSanchezH/Securing-and-Managing-Data-in-Azure-Storage">Securing and Managing Data in Azure Storage</a>|
 
 ---
 
