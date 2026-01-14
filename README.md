@@ -15,6 +15,9 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 | Azure VM User Account Setup | <a href="https://github.com/JoseDSanchezH/Azure-VM-User-Account-Setup">Azure VM User Account Setup</a>|
 | Securing and Managing Data in Azure Storage | <a href="https://github.com/JoseDSanchezH/Securing-and-Managing-Data-in-Azure-Storage">Securing and Managing Data in Azure Storage</a>|
 
+
+
+
 ---
 
 ## 🛠️ Tools & Technologies I've Used
@@ -26,9 +29,14 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 ---
 
 ## 🚀 What I'm Working On
-- Building and documenting cybersecurity home lab projects  
+- 
 - Integrating SIEM monitoring and endpoint security solutions  
 - Exploring real-world attack simulations and malware analysis  
+
+---
+## Projects
+- 🛡️ Blue Team Security Operations Lab | SOC Investigations, SIEM, Incident Response
+- System Administrator | Active Directory & Azure
 
 ---
 
