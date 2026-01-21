@@ -29,12 +29,13 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 ---
 
 ## 🚀 What I'm Working On
-- 
+
 - Integrating SIEM monitoring and endpoint security solutions  
 - Exploring real-world attack simulations and malware analysis  
 
 ---
 ## Projects
+
 - 🛡️ Blue Team Security Operations Lab | SOC Investigations, SIEM, Incident Response
 - System Administrator | Active Directory & Azure
 
