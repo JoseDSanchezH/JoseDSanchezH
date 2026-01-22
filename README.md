@@ -37,6 +37,7 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 
 ## 🛡️ SOC Investigations, SIEM, Incident Response Projects
 
+- <a href="https://github.com/JoseDSanchezH/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation</a>
 - <a href="https://github.com/JoseDSanchezH/Javascript-Code-Detected-in-Requested-URL/blob/main/README.md">JavaScript Code Detected in Requested URL</a>
 - <a href="https://github.com/JoseDSanchezH/SOC168-ALERT--Whoami-Command-Detected-in-Request-Body/blob/main/README.md">Whoami Command Detected in Request Body</a>
 - <a href="https://github.com/JoseDSanchezH/Letsdefend-phishing-email-analysis/blob/main/README.md">Phishing Email Analysis – LetsDefend</a>
