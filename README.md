@@ -34,20 +34,17 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 - Exploring real-world attack simulations and malware analysis  
 
 ---
-## Projects
 
-- 🛡️ Blue Team Security Operations Lab | SOC Investigations, SIEM, Incident Response
-- System Administrator | Active Directory & Azure
+## 🛡️ SOC Investigations, SIEM, Incident Response Projects
 
----
+- <a href="https://github.com/JoseDSanchezH/Javascript-Code-Detected-in-Requested-URL/blob/main/README.md">JavaScript Code Detected in Requested URL</a>
+- <a href="https://github.com/JoseDSanchezH/SOC168-ALERT--Whoami-Command-Detected-in-Request-Body/blob/main/README.md">Whoami Command Detected in Request Body</a>
+- <a href="https://github.com/JoseDSanchezH/Letsdefend-phishing-email-analysis/blob/main/README.md">Phishing Email Analysis – LetsDefend</a>
+- <a href="https://github.com/JoseDSanchezH/SOC-Alert-Investigation-Phishing-Email-with-Excel-4.0-Macro-Based-Malware/blob/main/README.md">SOC Alert Investigation – Phishing Email with Excel 4.0 Macro-Based Malware</a>
 
-## 🔍 Currently Trying Out
-- HackTheBox challenges to sharpen penetration testing skills  
-- Learning more about the SOC Analyst role and responsibilities  
-
----
 
 ## 📫 Reach Me
+
 - Email: [Jose.dejesussan@gmail.com](mailto:Jose.dejesussan@gmail.com)
 
 ---
