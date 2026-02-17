@@ -42,7 +42,12 @@ I'm an aspiring IT and Cybersecurity professional with hands-on experience in sy
 - <a href="https://github.com/JoseDSanchezH/SOC168-ALERT--Whoami-Command-Detected-in-Request-Body/blob/main/README.md">Whoami Command Detected in Request Body</a>
 - <a href="https://github.com/JoseDSanchezH/Letsdefend-phishing-email-analysis/blob/main/README.md">Phishing Email Analysis – LetsDefend</a>
 - <a href="https://github.com/JoseDSanchezH/SOC-Alert-Investigation-Phishing-Email-with-Excel-4.0-Macro-Based-Malware/blob/main/README.md">SOC Alert Investigation – Phishing Email with Excel 4.0 Macro-Based Malware</a>
-
+- <a href="https://github.com/JoseDSanchezH/Network-Log-Analysis-Disclose-The-Agent/blob/main/README.md">Network Log Analysis — Disclose The Agent</a>
+- <a href="https://github.com/JoseDSanchezH/Port-Scan-Activity-Digital-Forensics-and-Incident-Response-Challenge/blob/main/README.md">Port Scan Activity — DFIR Challenge</a>
+- <a href="https://github.com/JoseDSanchezH/Network-Forensics-Exploit-Detection-Shellshock-Bash-Vulnerability-PCAP-Analysis/blob/main/README.md">Network Forensics & Exploit Detection — Shellshock PCAP Analysis</a>
+- <a href="https://github.com/JoseDSanchezH/Defining-Broken-Access-Control-OWASP-A01">Defining Broken Access Control — OWASP A01</a>
+- <a href="https://github.com/JoseDSanchezH/VoIP-Forensics-Lab-Investigating-a-Realistic-Vishing-Voice-Phishing-Attack">VoIP Forensics Lab — Vishing Attack Investigation</a>
+- <a href="https://github.com/JoseDSanchezH/Shielding-the-Grid-Analyzing-C2-Communication-Critical-Infrastructure-Threats-in-an-ICS-Environment">Shielding the Grid — ICS C2 Communication Analysis</a>
 
 ## 📫 Reach Me
 
