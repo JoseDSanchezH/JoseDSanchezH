@@ -31,7 +31,9 @@ IT Support and Systems Administration professional with real-world experience re
 ## 🚀 What I'm Working On
 
 - Integrating SIEM monitoring and endpoint security solutions  
-- Exploring real-world attack simulations and malware analysis  
+- Exploring real-world attack simulations and malware analysis
+- Creating different networks and topologies within Cisco Packet Tracer for companies.
+- Learning AI using 8n8
 
 ---
 
