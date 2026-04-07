@@ -1,60 +1,63 @@
 # Hi there 👋, I'm Jose Sanchez
-<a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**Systems Administrator | Help Desk Specialist | Cybersecurity Researcher**
 
-IT Support and Systems Administration professional with real-world experience resolving end-user issues, managing Active Directory, and securing cloud environments through Azure. Skilled in endpoint troubleshooting, user provisioning, and access control across Windows and Linux platforms. CompTIA Security+ certified, with a security-first approach to user support and system administration.  
-
----
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Scripting and Automation for Threat Mitigation     | <a href="https://github.com/JoseDSanchezH/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation</a>|
-| Azure Virtual Network Designing Subnets, Security Groups, and DNS Zones | <a href="https://github.com/JoseDSanchezH/Azure-Virtual-Network-Designing-Subnets-Security-Groups-and-DNS-Zones">Azure Virtual Network Designing Subnets, Security Groups, and DNS Zones</a>|
-| Securing Azure with RBAC Least Privilege | <a href="https://github.com/JoseDSanchezH/Securing-Azure-with-RBAC-Least-Privilege">Securing Azure with RBAC Least Privilege</a>|
-| Azure VM User Account Setup | <a href="https://github.com/JoseDSanchezH/Azure-VM-User-Account-Setup">Azure VM User Account Setup</a>|
-| Securing and Managing Data in Azure Storage | <a href="https://github.com/JoseDSanchezH/Securing-and-Managing-Data-in-Azure-Storage">Securing and Managing Data in Azure Storage</a>|
-
-
-
+<div align="left">
+  <a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Administrator-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies I've Used
-- **Platforms:** Windows Server, Linux (Ubuntu, CentOS), Azure, VirtualBox  
-- **Cybersecurity & IT Tools:** Wireshark, Nmap, UFW, Hybrid Analysis, VirusTotal, PDQ Deploy/Inventory  
-- **System Administration:** Active Directory, RSAT, Group Policy  
-- **Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
----
-
-## 🚀 What I'm Working On
-
-- Integrating SIEM monitoring and endpoint security solutions  
-- Exploring real-world attack simulations and malware analysis
-- Creating different networks and topologies within Cisco Packet Tracer for companies.
-- Learning AI using 8n8
+### 👤 Professional Summary
+I bridge the gap between **IT Infrastructure** and **Security Operations**. Currently managing lighting systems for the Queens Culture and Arts Network, I apply a high-pressure troubleshooting mindset to **Systems Administration**. I specialize in building resilient networks (Cisco) and defending them against modern threats (SOC/Forensics).
 
 ---
 
-## 🛡️ SOC Investigations, SIEM, Incident Response Projects
-
-- <a href="https://github.com/JoseDSanchezH/Scripting-and-Automation-for-Threat-Mitigation">Scripting and Automation for Threat Mitigation</a>
-- <a href="https://github.com/JoseDSanchezH/Javascript-Code-Detected-in-Requested-URL/blob/main/README.md">JavaScript Code Detected in Requested URL</a>
-- <a href="https://github.com/JoseDSanchezH/SOC168-ALERT--Whoami-Command-Detected-in-Request-Body/blob/main/README.md">Whoami Command Detected in Request Body</a>
-- <a href="https://github.com/JoseDSanchezH/Letsdefend-phishing-email-analysis/blob/main/README.md">Phishing Email Analysis – LetsDefend</a>
-- <a href="https://github.com/JoseDSanchezH/SOC-Alert-Investigation-Phishing-Email-with-Excel-4.0-Macro-Based-Malware/blob/main/README.md">SOC Alert Investigation – Phishing Email with Excel 4.0 Macro-Based Malware</a>
-- <a href="https://github.com/JoseDSanchezH/Network-Log-Analysis-Disclose-The-Agent/blob/main/README.md">Network Log Analysis — Disclose The Agent</a>
-- <a href="https://github.com/JoseDSanchezH/Port-Scan-Activity-Digital-Forensics-and-Incident-Response-Challenge/blob/main/README.md">Port Scan Activity — DFIR Challenge</a>
-- <a href="https://github.com/JoseDSanchezH/Network-Forensics-Exploit-Detection-Shellshock-Bash-Vulnerability-PCAP-Analysis/blob/main/README.md">Network Forensics & Exploit Detection — Shellshock PCAP Analysis</a>
-- <a href="https://github.com/JoseDSanchezH/Defining-Broken-Access-Control-OWASP-A01">Defining Broken Access Control — OWASP A01</a>
-- <a href="https://github.com/JoseDSanchezH/VoIP-Forensics-Lab-Investigating-a-Realistic-Vishing-Voice-Phishing-Attack">VoIP Forensics Lab — Vishing Attack Investigation</a>
-- <a href="https://github.com/JoseDSanchezH/Shielding-the-Grid-Analyzing-C2-Communication-Critical-Infrastructure-Threats-in-an-ICS-Environment">Shielding the Grid — ICS C2 Communication Analysis</a>
-
-## 📫 Reach Me
-
-- Email: [Jose.dejesussan@gmail.com](mailto:Jose.dejesussan@gmail.com)
+## 🛠️ Technical Ecosystem
+| Administration & Cloud | Networking & Infrastructure | Security & Forensics |
+| :--- | :--- | :--- |
+| Azure (RBAC, VNET, Entra ID) | Cisco Packet Tracer | Wireshark & PCAP Analysis |
+| Active Directory / GPO | DHCP, DNS, & VLANs | Malware Analysis (Static/Dynamic) |
+| Windows & Linux Admin | VPN & VoIP Config | Threat Hunting (ICS/SCADA) |
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my projects and connect.  
+## 🌐 Network Engineering (Cisco Infrastructure)
+*Projects focused on building, scaling, and documenting physical and logical network layouts.*
+
+* **[Enterprise DHCP & DNS Deployment](https://github.com/JoseDSanchezH/DHCP-Server-in-Cisco-Packet-Tracer)**
+    * **The Build:** Automated IP addressing for a multi-department star topology.
+    * **SysAdmin Impact:** Reduced manual configuration errors by 100% through centralized scope management.
+* **[Core Security: Router Hardening](https://github.com/JoseDSanchezH/Basic-Router-Security-Configuration-Cisco-Packet-Tracer)**
+    * **The Build:** Implementing SSH, password encryption, and console security.
+    * **Why it matters:** Demonstrates a "Security-First" approach to infrastructure deployment.
+* **[Wireless & Access Point Integration](https://github.com/JoseDSanchezH/Wireless-Connections-with-Access-Point-in-Cisco-Packet-Tracer)**
+    * **The Build:** Bridging wired and wireless segments securely for mobile workforces.
+
+---
+
+## 🛡️ Cyber Defense & SOC Investigations
+*Deep-dive forensic reports on traffic analysis and incident response.*
+
+* **[ICS/SCADA: Shielding the Grid](https://github.com/JoseDSanchezH/Shielding-the-Grid-Analyzing-C2-Communication-Critical-Infrastructure-Threats-in-an-ICS-Environment)**
+    * **Analysis:** Identified C2 (Command & Control) traffic in a fuel station network.
+    * **Tooling:** Wireshark, DHCP Log Forensics.
+* **[Malware Forensic: Shellshock Exploit](https://github.com/JoseDSanchezH/Network-Forensics-Exploit-Detection-Shellshock-Bash-Vulnerability-PCAP-Analysis)**
+    * **Analysis:** Traced a Bash vulnerability exploit through packet inspection to identify the attacker's payload.
+* **[Phishing Incident Response](https://github.com/JoseDSanchezH/SOC-Alert-Investigation-Phishing-Email-with-Excel-4.0-Macro-Based-Malware)**
+    * **Analysis:** Analyzed weaponized Excel macros used to bypass traditional filters.
+
+---
+
+## ☁️ Azure & Cloud Governance
+* **[RBAC & Least Privilege Design](https://github.com/JoseDSanchezH/Securing-Azure-with-RBAC-Least-Privilege):** Managing user permissions to prevent unauthorized data access.
+* **[VNET & Subnet Architecture](https://github.com/JoseDSanchezH/Azure-Virtual-Network-Designing-Subnets-Security-Groups-and-DNS-Zones):** Building secure cloud boundaries with Network Security Groups (NSGs).
+
+---
+
+## 📫 Let's Connect
+* **Email:** [Jose.dejesussan@gmail.com](mailto:Jose.dejesussan@gmail.com)
+* **Portfolio Goal:** I am actively seeking a **Help Desk** or **Junior SysAdmin** role where I can apply my documentation and security skills.
