@@ -12,7 +12,7 @@
 ---
 
 ### 👤 Professional Summary
-I bridge the gap between **IT Infrastructure** and **Security Operations**. Currently managing lighting systems for the Queens Culture and Arts Network, I apply a high-pressure troubleshooting mindset to **Systems Administration**. I specialize in building resilient networks (Cisco) and defending them against modern threats (SOC/Forensics).
+IT Support and Systems Administration professional with real-world experience resolving end-user issues, managing Active Directory, and designing network infrastructures on Cisco Packet Tracer. Skilled in endpoint troubleshooting, user provisioning, and access control across Windows and Linux platforms. CompTIA Security+ certified, with a security-first approach to user support and system administration.
 
 ---
 
