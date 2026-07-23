@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Jose Sanchez
-** Help Desk Specialist | Cybersecurity Researcher**
+**Help Desk Specialist | Cybersecurity Researcher**
 
 <div align="left">
   <a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3">
