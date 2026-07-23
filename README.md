@@ -60,4 +60,4 @@ IT Support and Systems Administration professional with real-world experience re
 
 ## 📫 Let's Connect
 * **Email:** [Jose.dejesussan@gmail.com](mailto:Jose.dejesussan@gmail.com)
-* **Portfolio Goal:** I am actively seeking a **Help Desk** or **Junior SysAdmin** role where I can apply my documentation and security skills.
+* **Portfolio Goal:** I am actively seeking a **Help Desk** position to grow my career in IT. I would love to learn new things every day at a new job.
