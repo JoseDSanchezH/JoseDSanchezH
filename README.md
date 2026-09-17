@@ -1,63 +1,62 @@
-# Hi there 👋, I'm Jose Sanchez
-**Help Desk Specialist | Cybersecurity Researcher**
+# Hi, I'm Jose Sanchez
+**IT Support & Systems Administration | CompTIA Security+**
 
 <div align="left">
   <a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF8300?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Administrator-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ---
 
-### 👤 Professional Summary
-IT Support and Systems Administration professional with real-world experience resolving end-user issues, managing Active Directory, and designing network infrastructures on Cisco Packet Tracer. Skilled in endpoint troubleshooting, user provisioning, and access control across Windows and Linux platforms. CompTIA Security+ certified, with a security-first approach to user support and system administration.
+### About me
+I support Windows environments, manage Active Directory, and troubleshoot endpoints for a living, and I spend my own time building the infrastructure I haven't gotten to touch professionally yet. Most of what's below started as "I wonder how that actually works" and turned into a lab. CompTIA Security+ certified, currently working through my CCNA and an Azure AZ-900.
 
 ---
 
-## 🛠️ Technical Ecosystem
-| Administration & Cloud | Networking & Infrastructure | Security & Forensics |
+## Technical Ecosystem
+| Administration | Networking | Security & Forensics |
 | :--- | :--- | :--- |
-| Azure (RBAC, VNET, Entra ID) | Cisco Packet Tracer | Wireshark & PCAP Analysis |
-| Active Directory / GPO | DHCP, DNS, & VLANs | Malware Analysis (Static/Dynamic) |
-| Windows & Linux Admin | VPN & VoIP Config | Threat Hunting (ICS/SCADA) |
+| Active Directory / GPO | Cisco IOS (routing & switching) | Wireshark & PCAP Analysis |
+| Windows & Linux Admin | DHCP, DNS, VLANs, OSPF, NAT, ACLs | Malware Static Analysis (IDA Pro) |
+| Azure (RBAC, VNet, Entra ID) | Port Security & SSH Hardening | SOC Alert Investigation |
 
 ---
 
-## 🌐 Network Engineering (Cisco Infrastructure)
-*Projects focused on building, scaling, and documenting physical and logical network layouts.*
+## Network Engineering (Cisco)
 
-* **[Enterprise DHCP & DNS Deployment](https://github.com/JoseDSanchezH/DHCP-Server-in-Cisco-Packet-Tracer)**
-    * **The Build:** Automated IP addressing for a multi-department star topology.
-    * **SysAdmin Impact:** Reduced manual configuration errors by 100% through centralized scope management.
-* **[Core Security: Router Hardening](https://github.com/JoseDSanchezH/Basic-Router-Security-Configuration-Cisco-Packet-Tracer)**
-    * **The Build:** Implementing SSH, password encryption, and console security.
-    * **Why it matters:** Demonstrates a "Security-First" approach to infrastructure deployment.
-* **[Wireless & Access Point Integration](https://github.com/JoseDSanchezH/Wireless-Connections-with-Access-Point-in-Cisco-Packet-Tracer)**
-    * **The Build:** Bridging wired and wireless segments securely for mobile workforces.
+**[CCNA Study Kit](https://github.com/JoseDSanchezH/ccna-study-kit)**
+The current work: 12 labs building toward the CCNA, past basic connectivity into dynamic routing (OSPF), NAT, standard/extended ACLs, port security with SSH-only management, and a full Wireless LAN Controller deployment with CAPWAP.
+
+**[Cisco Packet Tracer Labs](https://github.com/JoseDSanchezH/cisco-packet-tracer-labs)**
+Where I started: 11 labs from a first two-PC connection through DHCP/DNS servers, VLAN segmentation, and router hardening.
 
 ---
 
-## 🛡️ Cyber Defense & SOC Investigations
-*Deep-dive forensic reports on traffic analysis and incident response.*
+## Cyber Defense & SOC Investigations
 
-* **[ICS/SCADA: Shielding the Grid](https://github.com/JoseDSanchezH/Shielding-the-Grid-Analyzing-C2-Communication-Critical-Infrastructure-Threats-in-an-ICS-Environment)**
-    * **Analysis:** Identified C2 (Command & Control) traffic in a fuel station network.
-    * **Tooling:** Wireshark, DHCP Log Forensics.
-* **[Malware Forensic: Shellshock Exploit](https://github.com/JoseDSanchezH/Network-Forensics-Exploit-Detection-Shellshock-Bash-Vulnerability-PCAP-Analysis)**
-    * **Analysis:** Traced a Bash vulnerability exploit through packet inspection to identify the attacker's payload.
-* **[Phishing Incident Response](https://github.com/JoseDSanchezH/SOC-Alert-Investigation-Phishing-Email-with-Excel-4.0-Macro-Based-Malware)**
-    * **Analysis:** Analyzed weaponized Excel macros used to bypass traditional filters.
+**[LetsDefend SOC Labs](https://github.com/JoseDSanchezH/letsdefend-soc-labs)**
+14 alert investigations as a SOC analyst: traced a Shellshock (CVE-2014-6271) exploit through an HTTP header, reverse-engineered a SpiceRAT malware sample in IDA Pro, analyzed SIP/RTP traffic from a vishing call, and worked phishing, XSS, and command-injection alerts end to end.
 
----
+**[Network Forensics & Security Labs](https://github.com/JoseDSanchezH/network-forensics-security-labs)**
+Web application exploitation and SIEM automation: chained an IDOR into credential compromise and Linux privilege escalation, wrote up OWASP A01 (Broken Access Control), and extended a Wazuh SIEM setup with real-time alerting and VirusTotal integration.
 
-## ☁️ Azure & Cloud Governance
-* **[RBAC & Least Privilege Design](https://github.com/JoseDSanchezH/Securing-Azure-with-RBAC-Least-Privilege):** Managing user permissions to prevent unauthorized data access.
-* **[VNET & Subnet Architecture](https://github.com/JoseDSanchezH/Azure-Virtual-Network-Designing-Subnets-Security-Groups-and-DNS-Zones):** Building secure cloud boundaries with Network Security Groups (NSGs).
+**[Shielding the Grid: ICS/SCADA Threat Analysis](https://github.com/JoseDSanchezH/Shielding-the-Grid-Analyzing-C2-Communication-Critical-Infrastructure-Threats-in-an-ICS-Environment)** *(in progress)*
+Tracing C2 communication with a compromised fuel station's automatic tank gauge.
 
 ---
 
-## 📫 Let's Connect
-* **Email:** [Jose.dejesussan@gmail.com](mailto:Jose.dejesussan@gmail.com)
-* **Portfolio Goal:** I am actively seeking a **Help Desk** position to grow my career in IT. I would love to learn new things every day at a new job.
+## Azure & Active Directory
+
+**[Azure & Active Directory Labs](https://github.com/JoseDSanchezH/azure-active-directory-labs)**
+8 labs spanning cloud and on-prem identity: RBAC and least-privilege design, VNet/subnet/DNS architecture, multi-region VM provisioning with Entra ID, storage security (GZRS, encryption, lifecycle rules), Azure Files sharing, Storage Queues for app messaging, on-prem AD with OUs and NTFS permissions, and MDM policy enforcement with MaaS360.
+
+---
+
+## Let's connect
+**Email:** [jose.dejesussan@gmail.com](mailto:jose.dejesussan@gmail.com)
+
+I'm looking for a Help Desk, Desktop Support, or Junior Systems Administrator role where I can keep doing this, just with higher stakes and a team around me.
+
+**Side project:** I also build small AI/automation tools on the side, most recently a chatbot for a nonprofit client. [AI & Automation Labs](https://github.com/JoseDSanchezH/ai-automation-labs)
