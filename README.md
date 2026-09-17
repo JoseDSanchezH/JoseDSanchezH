@@ -11,7 +11,7 @@
 ---
 
 ### About me
-I support Windows environments, manage Active Directory, and troubleshoot endpoints for a living, and I spend my own time building the infrastructure I haven't gotten to touch professionally yet. Most of what's below started as "I wonder how that actually works" and turned into a lab. CompTIA Security+ certified, currently working through my CCNA and an Azure AZ-900.
+I support Windows environments, manage Active Directory, and troubleshoot endpoints for a living, and I spend my own time building the infrastructure I haven't gotten to touch professionally yet. Most of what's below started as "I wonder how that actually works" and turned into a lab. CompTIA Security+ certified, currently working toward Network+.
 
 ---
 
