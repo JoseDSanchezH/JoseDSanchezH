@@ -57,6 +57,6 @@ Tracing C2 communication with a compromised fuel station's automatic tank gauge.
 ## Let's connect
 **Email:** [jose.dejesussan@gmail.com](mailto:jose.dejesussan@gmail.com)
 
-I'm looking for a Help Desk, Desktop Support, or Junior Systems Administrator role where I can keep doing this, just with higher stakes and a team around me.
+I'm looking for a Help Desk, Desktop Support, or Junior Systems Administrator role where I can keep learning with a great team. 
 
 **Side project:** I also build small AI/automation tools on the side, most recently a chatbot for a nonprofit client. [AI & Automation Labs](https://github.com/JoseDSanchezH/ai-automation-labs)
