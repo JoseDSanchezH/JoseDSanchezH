@@ -32,6 +32,9 @@ The current work: 12 labs building toward the CCNA, past basic connectivity into
 **[Cisco Packet Tracer Labs](https://github.com/JoseDSanchezH/cisco-packet-tracer-labs)**
 Where I started: 11 labs from a first two-PC connection through DHCP/DNS servers, VLAN segmentation, and router hardening.
 
+**[Pi Network Project (Pi-hole + WireGuard)](https://github.com/JoseDSanchezH/Creating-My-Cyber-Assistant-Raspberry-Pi-5-AI)**
+Running Pi-hole and WireGuard on a Raspberry Pi 5 at home. DNS and ad blocking for every device on my network, plus a VPN so I can reach home securely from outside.
+
 ---
 
 ## Cyber Defense & SOC Investigations
