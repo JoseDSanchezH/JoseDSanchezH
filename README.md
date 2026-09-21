@@ -33,7 +33,7 @@ The current work: 12 labs building toward the CCNA, past basic connectivity into
 Where I started: 11 labs from a first two-PC connection through DHCP/DNS servers, VLAN segmentation, and router hardening.
 
 
-*Raspberry Pi Network Lab (https://github.com/JoseDSanchezH/Creating-My-Cyber-Assistant-Raspberry-Pi-5-AI)**
+**Raspberry Pi Network Lab (https://github.com/JoseDSanchezH/Creating-My-Cyber-Assistant-Raspberry-Pi-5-AI)**
 Using a Raspberry Pi 5 to run Pi-hole and WireGuard. This new goal is to build log under Networking experience. 
 ---
 
