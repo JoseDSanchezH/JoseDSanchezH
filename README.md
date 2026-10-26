@@ -28,6 +28,17 @@ IT Help Desk and Support
 
 ---
 
+## [Service Desk Portfolio](https://github.com/JoseDSanchezH/Service-Desk-Portfolio)
+
+I've worked through 14 simulated help desk tickets in a ticketing simulator so I can practice troubleshooting real problems, like outages, VPN, printers, drivers, email, disk space, and account changes. Each ticket has the original request, my steps with screenshots, and the short notes I'd write on the job. The names, IPs, and emails are all simulated (credit to [servicedesk-simulator.com](https://servicedesk-simulator.com/)). The four I'm most proud of are below, and the rest are in the [repo](https://github.com/JoseDSanchezH/Service-Desk-Portfolio).
+
+- **[Floor 3 Internet Outage](https://github.com/JoseDSanchezH/Service-Desk-Portfolio/blob/main/Internet%20Outage.md):** Only Floor 3 lost internet, and Floor 2 was fine. I went to the server room, found the Floor 3 switch offline with an error, and rebooted it. Checked that all the devices came back up before closing the ticket.
+- **[VPN Disconnected (remote employee)](https://github.com/JoseDSanchezH/Service-Desk-Portfolio/blob/main/VPN%20Disconnected.md):** Remoted in and checked for updates first. The VPN client error told me to run `ipconfig /flushdns`, then restart. After the restart it connected and routed through the corporate network.
+- **[Dead Desktop Replacement](https://github.com/JoseDSanchezH/Service-Desk-Portfolio/blob/main/PC%20is%20Completely%20dead.md):** Customer Support desktop wouldn't power on and calls were queueing. I couldn't fix it remotely, so I deployed a new one with PXE boot and an imaging server task sequence, joined it to the domain, labeled it in asset management, and shipped it to the agent.
+- **[Legal Name Change in Active Directory](https://github.com/JoseDSanchezH/Service-Desk-Portfolio/blob/main/Legal%20Name%20Change%20Amanda%20Reyes.md):** Confirmed HR had approved it, then changed the display name and email in Active Directory. Kept the old address as an alias and checked the profile before closing.
+
+---
+
 ## Network Engineering (Cisco)
 
 **[CCNA Study Kit](https://github.com/JoseDSanchezH/ccna-study-kit)**
