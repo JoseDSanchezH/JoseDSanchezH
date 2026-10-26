@@ -1,5 +1,5 @@
 # Hi, I'm Jose Sanchez
-**IT Support & Systems Administration | CompTIA Security+**
+**Aspiring IT Support Professional | CompTIA Security+ **
 
 <div align="left">
   <a href="https://linkedin.com/in/jose-sanchez-hernandez-2307961a3">
@@ -11,7 +11,11 @@
 ---
 
 ### About me
-I support Windows environments, manage Active Directory, and troubleshoot endpoints for a living, and I spend my own time building the infrastructure I haven't gotten to touch professionally yet. Most of what's below started as "I wonder how that actually works" and turned into a lab. CompTIA Security+ certified, currently working toward Network+.
+Aspiring IT Support and Systems Administrator. Currently seeking opportunities in IT Support or System Administration where I can contribute, grow, and expand my knowledge while helping organizations maintain reliable and secure systems.
+Most of what's below started as "I wonder how that actually works" and turned into a lab. CompTIA Security+ certified, currently working toward Network+.
+
+What I’m working on and interested in:
+IT Help Desk and Support
 
 ---
 
