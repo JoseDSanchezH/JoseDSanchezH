@@ -19,15 +19,6 @@ IT Help Desk and Support
 
 ---
 
-## Technical Ecosystem
-| Administration | Networking | Security & Forensics |
-| :--- | :--- | :--- |
-| Active Directory / GPO | Cisco IOS (routing & switching) | Wireshark & PCAP Analysis |
-| Windows & Linux Admin | DHCP, DNS, VLANs, OSPF, NAT, ACLs | Malware Static Analysis (IDA Pro) |
-| Azure (RBAC, VNet, Entra ID) | Port Security & SSH Hardening | SOC Alert Investigation |
-
----
-
 ## [Service Desk Portfolio](https://github.com/JoseDSanchezH/Service-Desk-Portfolio)
 
 I've worked through 14 simulated help desk tickets in a ticketing simulator so I can practice troubleshooting real problems, like outages, VPN, printers, drivers, email, disk space, and account changes. Each ticket has the original request, my steps with screenshots, and the short notes I'd write on the job. The names, IPs, and emails are all simulated (credit to [servicedesk-simulator.com](https://servicedesk-simulator.com/)). The four I'm most proud of are below, and the rest are in the [repo](https://github.com/JoseDSanchezH/Service-Desk-Portfolio).
@@ -69,6 +60,15 @@ Tracing C2 communication with a compromised fuel station's automatic tank gauge.
 
 **[Azure & Active Directory Labs](https://github.com/JoseDSanchezH/azure-active-directory-labs)**
 8 labs spanning cloud and on-prem identity: RBAC and least-privilege design, VNet/subnet/DNS architecture, multi-region VM provisioning with Entra ID, storage security (GZRS, encryption, lifecycle rules), Azure Files sharing, Storage Queues for app messaging, on-prem AD with OUs and NTFS permissions, and MDM policy enforcement with MaaS360.
+
+---
+
+## Tools and skills
+
+- **Help desk and remote support:** ticket troubleshooting, VPN, printers, drivers, imaging and deployment. See the [Service Desk Portfolio](https://github.com/JoseDSanchezH/Service-Desk-Portfolio)
+- **Active Directory / GPO, Windows and Linux admin, Azure (RBAC, VNet, Entra ID):** [Azure & Active Directory Labs](https://github.com/JoseDSanchezH/azure-active-directory-labs)
+- **Cisco IOS, DHCP, DNS, VLANs, OSPF, NAT, ACLs, port security, SSH hardening:** [CCNA Study Kit](https://github.com/JoseDSanchezH/ccna-study-kit) and [Cisco Packet Tracer Labs](https://github.com/JoseDSanchezH/cisco-packet-tracer-labs)
+- **Wireshark, PCAP analysis, IDA Pro malware analysis, SOC alert investigation:** [LetsDefend SOC Labs](https://github.com/JoseDSanchezH/letsdefend-soc-labs) and [Network Forensics & Security Labs](https://github.com/JoseDSanchezH/network-forensics-security-labs)
 
 ---
 
